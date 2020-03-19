@@ -1,0 +1,16 @@
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Test1.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Test1.pdb
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\obj\Debug\Test1.csproj.CopyComplete
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\obj\Debug\Test1.dll
+F:\ProgLab\Lab1\WindowsFormsApp1\Test1\obj\Debug\Test1.pdb
